@@ -5,9 +5,12 @@
 
 body {
     background-color: #EAE6E5;
-    box-sizing: border-box;
+    position: relative;
 
 }
+html, body {
+    overflow-x: hidden;
+  }
 
 header {
     
