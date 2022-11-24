@@ -380,24 +380,24 @@ footer .wrapper::after{
 @media screen and (max-width: 999px) {
 
     .mySlides img {
-        width: 360px;
-        height: 180px;
+        width: 420px;
+        height: 240px;
     }
     
     .mySlides video {
-        width: 360px
-        height: 180px;
+        width: 420px
+        height: 240px;
     }
 
     .bottoms-img .prev {
-        bottom: 135px;
+        bottom: 150px;
         margin: 10px;
     
     }
     
     .bottoms-img .next {
 
-        bottom: 135px;
+        bottom: 150px;
         margin: 10px;
         
     
