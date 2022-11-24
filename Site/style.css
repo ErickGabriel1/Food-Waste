@@ -356,7 +356,7 @@ footer .wrapper::after{
 
 }
 
-.links a{
+.links2 a{
     display: block;
     text-decoration: none;
     color: #63ae8b;
@@ -368,7 +368,7 @@ footer .wrapper::after{
     margin-bottom: 5px;
 }
 
-.links a:hover{
+.links2 a:hover{
     color: #569779;
     cursor: pointer;
     text-decoration: underline;
